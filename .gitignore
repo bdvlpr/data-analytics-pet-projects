@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Data
+data/raw/
+*.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# System
+.DS_Store
